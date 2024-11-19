@@ -1,0 +1,73 @@
+Field [1]
+
+Attention Coordinates: (58, 242)
+RF Quadrant Output [0]: 7739.454207
+RF Quadrant Output [1]: 10147.707151
+RF Quadrant Output [2]: 11017.458575
+RF Quadrant Output [3]: 8771.411461
+
+RF Current Output [0]: 33871.800744
+RF Current Output [1]: 37676.031394
+RF Current Output [2]: 27740.720832
+RF Current Output [3]: 31247.568205
+
+
+
+Field [9]
+
+Attention Coordinates: (180, 80)
+RF Quadrant Output [0]: 5096.279883
+RF Quadrant Output [1]: 5178.113157
+RF Quadrant Output [2]: 5000.540273
+RF Quadrant Output [3]: 5042.110411
+
+RF Current Output [0]: 13012.164368
+RF Current Output [1]: 15561.601863
+RF Current Output [2]: 17444.120242
+RF Current Output [3]: 20317.043725
+
+
+
+Field [12]                                                                // FAKE
+										// FAKE
+Attention Coordinates: (69, 308)                         // FAKE           
+RF Quadrant Output [0]: 3.808477                     // FAKE             
+RF Quadrant Output [1]: 1357.987651               // FAKE               
+RF Quadrant Output [2]: 1599.008633               // FAKE            
+RF Quadrant Output [3]: 34.975440                   // FAKE                
+
+RF Current Output [0]: 2970.328962                  // FAKE            
+RF Current Output [1]: 2995.780201                  // FAKE                 
+RF Current Output [2]: 2891.843238                  // FAKE                  
+RF Current Output [3]: 2938.946977                  // FAKE                    
+
+
+
+
+Field [17]
+
+Attention Coordinates: (180, 240)
+RF Quadrant Output [0]: 847.727047
+RF Quadrant Output [1]: 819.165459
+RF Quadrant Output [2]: 813.716533
+RF Quadrant Output [3]: 818.280287
+
+RF Current Output [0]: 3298.889326
+RF Current Output [1]: 937.754772
+RF Current Output [2]: 1407.178495
+RF Current Output [3]: 2494.254650
+
+
+
+Field [20]
+
+Attention Coordinates: (69, 259)
+RF Quadrant Output [0]: 15.699549
+RF Quadrant Output [1]: 1360.721088
+RF Quadrant Output [2]: 1532.374682
+RF Quadrant Output [3]: 7.072807
+
+RF Current Output [0]: 2840.064114
+RF Current Output [1]: 2876.294163
+RF Current Output [2]: 2900.055588
+RF Current Output [3]: 2915.868126

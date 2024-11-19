@@ -1,0 +1,12 @@
+﻿  LPLC2.cpp
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(1779,1): warning C4010: 单行注释包含行继续符
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2056,60): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2057,60): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2804,37): warning C4018: “>”: 有符号/无符号不匹配
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2858,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2957,43): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2957,43): warning C4244:         with
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2957,43): warning C4244:         [
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2957,43): warning C4244:             _Tp=uchar
+C:\A_RESEARCH\Off_Line\C\LPLC2\LPLC2.cpp(2957,43): warning C4244:         ]
+  LPLC2.vcxproj -> C:\A_RESEARCH\Off_Line\C\LPLC2\x64\Debug\LPLC2.exe
