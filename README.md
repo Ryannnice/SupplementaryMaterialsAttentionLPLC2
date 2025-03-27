@@ -1,4 +1,8 @@
+# Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization
+
 The repository includes all data, results and mLPLC2 neural network model associated with the manuscript "Attention-Driven LPLC2 Neural Ensemble Model for Multi-Target Looming Detection and Localization".
+
+## Description
 
 1.LPLC2.cpp
 
