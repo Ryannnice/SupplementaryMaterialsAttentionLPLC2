@@ -28,6 +28,6 @@ The repository includes all data, results and mLPLC2 neural network model associ
 
 * all figures in this  paper
   
-7.Plot
+7. Plot
 
 * python code to plot; MS visio plot.
